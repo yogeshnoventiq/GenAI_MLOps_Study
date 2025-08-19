@@ -1,0 +1,10 @@
+# Core dependencies for enhanced SDD generator
+requests>=2.31.0
+jinja2>=3.1.0
+PyMuPDF>=1.23.0  # For comprehensive PDF parsing with images
+python-docx>=0.8.11  # For DOCX support (optional)
+
+# Optional dependencies for enhanced functionality
+Pillow>=10.0.0  # For image processing
+numpy>=1.24.0   # For data processing
+pandas>=2.0.0   # For structured data handling
